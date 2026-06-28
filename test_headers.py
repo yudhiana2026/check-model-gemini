@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
 
-model_name = "models/antigravity-preview-05-2026 "
+model_name = "models/gemini-2.5-flash"
 print(f"Testing model: {model_name}")
 
 try:
