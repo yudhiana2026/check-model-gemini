@@ -115,7 +115,6 @@ check-model-gemini/
 ├── requirements.txt        # Python dependencies
 ├── setup.sh                # Virtual environment setup
 ├── run.sh                  # Convenience runner
-├── .env                    # API key (not committed)
 ├── .env.example            # Example environment file
 ├── .gitignore              # Git ignore rules
 └── README.md               # This file
